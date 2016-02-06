@@ -41,14 +41,11 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>C</li>
-	<li>C++</li>
-	<li>C#</li>
-	<li>Java</li>
-	<li>HLSL</li>
-	<li>Racket</li>
-	<li>x86 Assembly</li>
-	<li>ARM Assembly</li>
+	<li>Operating System/Hypervisor Development</li>
+	<li>CPU/Memory/GPU Performance Analysis</li>
+	<li>Mulithreaded Software Development</li>
+	<li>Power Consuption Optimization</li>
+	<li>SIMD Optimization</li>
 </ul>
 
 <h2>Projects</h2>
