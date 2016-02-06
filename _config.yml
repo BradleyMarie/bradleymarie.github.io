@@ -1,0 +1,15 @@
+name: Brad Weinberger
+bio: 'Software engineer, Wildcat, traveler'
+picture: 'assets/images/profile.jpg'
+
+url: http://bradweinberger.com
+permalink: /:title/
+
+analytics: 'UA-73430609-1'
+#disqus: mydisqus
+facebook: brad.weinberger
+twitter: BradleyMarie
+instagram: BradleyMariee
+linkedin: brad-weinberger-bb5a3554
+github: BradleyMarie
+email: me@bradweinberger.com
