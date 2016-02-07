@@ -16,12 +16,18 @@ Microsoft. I've worked at Microsoft since the summer of 2012 as a developer
 on the Operating System Performance team. Before that, I was a student at 
 Northwestern University where I majored in Computer Science and Economics.</p>
 
-<p>Since joining Microsoft, I've contributed code to a number of binaries 
-throughout our stack including the Xbox hypervisor, the Windows Kernel,
-the Hololens mixed reality compositor, and the Windows audio format converter
-just to name a few. Additionally, I've also led investigations into the CPU, 
-GPU, memory, and power usage of our applications. More details can be found
-in my resume.</p>
+<p>I love software probelms of all kinds, and I'm at home working anywhere
+in the software stack. In my time at Microsoft, I've checked in code to 
+the Xbox One hypervisor, the NT kernel, the HoloLens video capture pipeline, 
+and the Windows Performance Analyzer just to give a few examples. I also
+made contributions to projects as varied as the 
+<a href="http://www.v3vee.org/palacios/">Palacios</a> hypervisor and the
+<a href="http://omnipedia.northwestern.edu/">Omnipedia</a> client for 
+Wikipedia in my time as an undergraduate.</p>
+
+<p>Outside of work, I enjoy spending my free time skiing, hiking, traveling,
+watching movies, and working on my 
+<a href="https://github.com/BradleyMarie/Iris">ray tracer</a>.</p>
 
 <h2>Languages</h2>
 
