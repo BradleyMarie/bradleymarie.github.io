@@ -11,19 +11,17 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Brad! I'm a software developer living in Seattle and working at
+Microsoft. I've worked at Microsoft since the summer of 2012 as a developer
+on the Operating System Performance team. Before that, I was a student at 
+Northwestern University where I majored in Computer Science and Economics.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Since joining Microsoft, I've contributed code to a number of binaries 
+throughout our stack including the Xbox hypervisor, the Windows Kernel,
+the Hololens mixed reality compositor, and the Windows audio format converter
+just to name a few. Additionally, I've also led investigations into the CPU, 
+GPU, memory, and power usage of our applications. More details can be found
+in my resume.</p>
 
 <h2>Languages</h2>
 
