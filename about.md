@@ -16,7 +16,7 @@ Microsoft. I've worked at Microsoft since the summer of 2012 as a developer
 on the Operating System Performance team. Before that, I was a student at 
 Northwestern University where I majored in Computer Science and Economics.</p>
 
-<p>I love software probelms of all kinds, and I'm at home working anywhere
+<p>I love software problems of all kinds, and I'm at home working anywhere
 in the software stack. In my time at Microsoft, I've checked in code to 
 the Xbox One hypervisor, the NT kernel, the HoloLens video capture pipeline, 
 and the Windows Performance Analyzer just to give a few examples. As an
