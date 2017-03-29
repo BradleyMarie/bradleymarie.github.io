@@ -12,20 +12,26 @@ img { width: 50%; margin: 0 auto; display: block; }
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Hi, I'm Brad! I'm a software developer living in Seattle and working at
-Microsoft. I've worked at Microsoft since the summer of 2012 as a developer
-on the Operating System Performance team. Before that, I was a student at 
-Northwestern University where I majored in Computer Science and Economics.</p>
+Amazon. I've been a software developer since I graduated from Northwestern University
+(which is confusingly in Illinois) in 2012. I've been at Amazon since September 2016
+working on the Amazon Channels team. Before that, I worked for 4 years working at 
+Microsoft on the Windows Performance team.</p>
 
 <p>I love software problems of all kinds, and I'm at home working anywhere
-in the software stack. In my time at Microsoft, I've checked in code to 
-the Xbox One hypervisor, the NT kernel, the HoloLens video capture pipeline, 
-and the Windows Performance Analyzer just to give a few examples. As an
-undergraduate, I also wrote a 
-<a href="https://github.com/BradleyMarie/L5c">compiler</a>
-and made contributions to projects as varied as the 
-<a href="http://www.v3vee.org/palacios/">Palacios</a> hypervisor and the
+in the stack. At Amazon, my time has primarily been spent working with 
+distributed systems. In the Amazon world, that means web services which interact
+via HTTP and store their data in NoSQL backends.</p>
+
+<p>On the other end of the spectrum, my time at Microsoft was spent fixing issues 
+across the Windows codebase that issues that impact an individual client.To give a sense of 
+how broad that charter was, code I wrote ships today in the Xbox One hypervisor, the NT kernel,
+the HoloLens video capture pipeline, and the Windows Performance Analyzer just list a few
+components.</p>
+
+<p>While I was an undergraduate at Northwestern, I contributed to the 
+<a href="http://www.v3vee.org/palacios/">Palacios</a> hypervisor and the super neat
 <a href="http://omnipedia.northwestern.edu/">Omnipedia</a> client for 
-Wikipedia.</p>
+Wikipedia. I also wrote my own <a href="https://github.com/BradleyMarie/L5c">compiler</a>.</p>
 
 <p>Outside of work, I enjoy spending my free time skiing, hiking, traveling,
 watching movies, and working on my 
@@ -47,6 +53,7 @@ watching movies, and working on my
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>Distributed Systems</li>
 	<li>Operating System/Hypervisor Development</li>
 	<li>CPU/Memory/GPU Performance Analysis</li>
 	<li>Mulithreaded Software Development</li>
