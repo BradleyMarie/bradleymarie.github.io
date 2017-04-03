@@ -1,13 +1,11 @@
 name: Brad Weinberger
-bio: 'bit fiddler'
+bio: 'software engineer'
 picture: 'assets/images/profile.jpg'
 
 url: http://bradweinberger.com
 permalink: /:title/
 
 analytics: 'UA-73430609-1'
-#disqus: mydisqus
-facebook: brad.weinberger
 linkedin: brad-weinberger-bb5a3554
 github: BradleyMarie
 email: me@bradweinberger.com
