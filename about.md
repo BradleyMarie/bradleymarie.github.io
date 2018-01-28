@@ -11,19 +11,20 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I'm Brad! I'm a software developer living in Seattle and working at
-Amazon. I've been a software developer since I graduated from Northwestern University
-(which is confusingly in Illinois) in 2012. I've been at Amazon since September 2016
-working on the Amazon Channels team. Before that, I worked for 4 years working at 
-Microsoft on the Windows Performance team.</p>
+<p>Hi, I'm Brad! I'm a software developer living in Los Angeles and working at
+Google. I've been a software developer since I graduated from Northwestern University
+(which is confusingly in Illinois) in 2012. I've been at Google since June 2017. I 
+joined Google after 5 years in the rainy Pacific Northwest where I worked at both
+Amazon and Microsoft.</p>
 
 <p>I love software problems of all kinds, and I'm at home working anywhere
-in the stack. At Amazon, my time has primarily been spent working with 
-distributed systems. In the Amazon world, that means web services which interact
-via HTTP and store their data in NoSQL backends.</p>
+in the stack. At Amazon and Google, my time has primarily been spent working with 
+distributed systems. In the Amazon world, that meant web services which interact
+via HTTP and store their data in NoSQL backends. At Google, that means Stubby and 
+and magical distributed database backends like Spanner.</p>
 
 <p>On the other end of the spectrum, my time at Microsoft was spent fixing issues 
-across the Windows codebase that issues that impact an individual client.To give a sense of 
+across the Windows codebase that issues that impact an individual client. To give a sense of 
 how broad that charter was, code I wrote ships today in the Xbox One hypervisor, the NT kernel,
 the HoloLens video capture pipeline, and the Windows Performance Analyzer just list a few
 components.</p>
