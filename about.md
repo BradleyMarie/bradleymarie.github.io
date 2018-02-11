@@ -21,7 +21,7 @@ Amazon and Microsoft.</p>
 in the stack. At Amazon and Google, my time has primarily been spent working with 
 distributed systems. In the Amazon world, that meant web services which interact
 via HTTP and store their data in NoSQL backends. At Google, that means Stubby and 
-and magical distributed database backends like Spanner.</p>
+magical distributed database backends like Spanner.</p>
 
 <p>On the other end of the spectrum, my time at Microsoft was spent fixing issues 
 across the Windows codebase that issues that impact an individual client. To give a sense of 
