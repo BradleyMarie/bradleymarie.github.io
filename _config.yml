@@ -2,7 +2,7 @@ name: Brad Weinberger
 bio: 'software engineer'
 picture: 'assets/images/profile.jpg'
 
-url: http://bradweinberger.com
+url: https://bradweinberger.com
 permalink: /:title/
 
 analytics: 'UA-73430609-1'
