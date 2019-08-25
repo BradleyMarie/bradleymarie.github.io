@@ -11,23 +11,22 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I'm Brad! I'm a software developer living in Los Angeles and working at
-Google. I've been a software developer since I graduated from Northwestern University
-(which is confusingly in Illinois) in 2012. I've been at Google since June 2017. I 
-joined Google after 5 years in the rainy Pacific Northwest where I worked at both
-Amazon and Microsoft.</p>
+<p>Hi, I'm Brad! I'm a software engineer living in Los Angeles and working at
+Google. I've been in the industry since I graduated from Northwestern University
+in 2012. I started at Google in June of 2017. Before Google, I lived for 5 years
+in the rainy Pacific Northwest where I worked at both Amazon and Microsoft.</p>
 
-<p>I love software problems of all kinds, and I'm at home working anywhere
-in the stack. At Amazon and Google, my time has primarily been spent working with 
+<p>I love software problems of all kinds and I'm at home working anywhere in the
+stack. At Amazon and Google, my time has primarily been spent working with 
 distributed systems. In the Amazon world, that meant web services which interact
-via HTTP and store their data in NoSQL backends. At Google, that means Stubby and 
-magical distributed database backends like Spanner.</p>
+via HTTP and store their data in NoSQL backends. At Google, that means Stubby
+and magical distributed storage backends like Spanner.</p>
 
-<p>On the other end of the spectrum, my time at Microsoft was spent fixing issues 
-across the Windows codebase that issues that impact an individual client. To give a sense of 
-how broad that charter was, code I wrote ships today in the Xbox One hypervisor, the NT kernel,
-the HoloLens video capture pipeline, and the Windows Performance Analyzer just list a few
-components.</p>
+<p>On the other end of the spectrum, my time at Microsoft was spent
+investigating and solving performance issues throughout the Windows codebase. To
+give a few examples of what that meant, code I wrote ships today in the Xbox One
+hypervisor, the NT kernel, the HoloLens video capture pipeline, and the Windows
+Performance Analyzer.</p>
 
 <p>While I was an undergraduate at Northwestern, I contributed to the 
 <a href="http://www.v3vee.org/palacios/">Palacios</a> hypervisor and the super neat
