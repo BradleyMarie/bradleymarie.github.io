@@ -11,10 +11,11 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, I'm Brad! I'm a software engineer living in Los Angeles and working at
-Google. I've been in the industry since I graduated from Northwestern University
-in 2012. I started at Google in June of 2017. Before Google, I lived for 5 years
-in the rainy Pacific Northwest where I worked at both Amazon and Microsoft.</p>
+<p>Hi, I'm Brad! I'm a software engineer living in Los Angeles and working on
+YouTube. I've been in the industry since I graduated from Northwestern University
+in 2012. I started at Google in June of 2017 and transfered to the YouTube team in
+February of 2020. Before Google, I lived for 5 years in the rainy Pacific Northwest
+where I worked at both Amazon and Microsoft.</p>
 
 <p>I love software problems of all kinds and I'm at home working anywhere in the
 stack. At Amazon and Google, my time has primarily been spent working with 
