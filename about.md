@@ -25,7 +25,7 @@ and magical distributed storage backends like Spanner.</p>
 
 <p>On the other end of the spectrum, my time at Microsoft was spent
 investigating and solving performance issues throughout the Windows codebase. To
-give a few examples of what that meant, code I wrote ships today in the Xbox One
+give a few examples of what that meant, code I wrote ships today in the Xbox
 hypervisor, the NT kernel, the HoloLens video capture pipeline, and the Windows
 Performance Analyzer.</p>
 
